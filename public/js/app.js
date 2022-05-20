@@ -28,7 +28,7 @@ menuIcon.onclick = () => {
 
 var swiper = new Swiper(".modelos-slider", {
     pagination: {
-      el: ".swiper-pagination",
+        el: ".swiper-pagination",
     },
     autoplay: {
         delay: 3500,
